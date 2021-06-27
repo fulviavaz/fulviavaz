@@ -3,10 +3,10 @@
 
   
 
-**My name is Fúlvia Vaz. I am a  Front-End developer living in Brazil 🇧🇷**
+My name is Fúlvia Vaz. I am a  Front-End developer living in Brazil 🇧🇷
 
  **"Em um mundo repleto de tecnologia, aquele que não aprende a programar, será programado."- Attekita
-<br>
+ &nbsp;
  "In a world full of technology, those who don't learn to program will be programmed." - Attekita**
 
 
@@ -18,13 +18,25 @@
 
 ## 🔍 Where to find me
 
-[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fulviavaz/) [![Foo](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fulviavaz) [![Foo](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fulviavaz) 
+[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fulviavaz/) [![Foo](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fulviavaz) [![Foo](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fulviavaz) [
 
-<div>
+<table  align="left">
 
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=fulviavaz&show_icons=true&theme=omni&include_all_commits=true&count_private=true">
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulviavaz&theme=omni">
+<row>
 
-</div>
+<td>
+
+<!-- Card -->
+
+<img  height='172'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=fulviavaz&layout=compact&theme=react'></td><td><img  height='172'  src='https://github-readme-stats.vercel.app/api?username=fulviavaz&show_icons=true&theme=react'>
+</td>
+
+</row>
+
+</table>
+
+  
+
+![Snake animation](https://github.com/fulviavaz/fulviavaz/blob/output/github-contribution-grid-snake.svg)
 
 
