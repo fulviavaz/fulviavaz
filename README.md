@@ -3,7 +3,7 @@
 
   
 
-My name is Fúlvia Vaz. I am a  Front-End developer living in Brazil 🇧🇷
+**My name is Fúlvia Vaz. I am a  Front-End developer living in Brazil 🇧🇷
 
  **"Em um mundo repleto de tecnologia, aquele que não aprende a programar, será programado."- Attekita
  &nbsp;
