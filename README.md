@@ -12,56 +12,19 @@ My name is Fúlvia Vaz. I am a  Front-End developer living in Brazil 🇧🇷
 
 ## 🛠 Technologies and tools
 
-
-
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
- 
-
-<a name="learning-next"></a>
-
-  
-
-## 📖 What I am currently learning / improving on
-
-  
-
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/SQL-282C34?logo=mysql&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_now_anchor]
-
-  
-
+![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![alt text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![alt text](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white) ![alt text](https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white) ![alt text](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+  ## 📖 What I am currently learning / improving on
+  ![alt text](https://img.shields.io/badge/Node.Js-3CB371?style=for-the-badge&logo=node.js&logoColor=white)  ![alt text](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)  ![alt text](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🔍 Where to find me
 
-  
+[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fulviavaz/) [![Foo](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fulviavaz) [![Foo](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fulviavaz) [
 
-[<img src="https://img.shields.io/badge/Facebook-282C34?logo=facebook&logoColor=0273E3" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://www.facebook.com/fulviavaz)
-&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0273E3" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/fulviavaz/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=E649B4" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.instagram.com/fulviavaz/)
+<div>
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fulviavaz&count_private=true&theme=omni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulviavaz&layout=compact&theme=omni)
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=fulviavaz&show_icons=true&theme=omni&include_all_commits=true&count_private=true">
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fulviavaz&theme=omni">
 
-[tech_tools_anchor]: #bonjour--
+</div>
 
-[learning_now_anchor]: #learning-now
 
-[learning_next_anchor]: #learning-next
