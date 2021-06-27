@@ -56,9 +56,7 @@ My name is Fúlvia Vaz. I am a  Front-End developer living in Brazil 🇧🇷
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0273E3" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/fulviavaz/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=E649B4" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.instagram.com/fulviavaz/)
-
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fulviavaz&count_private=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulviavaz&layout=compact&theme=dracula)
+[<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=E649B4" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.instagram.com/fulviavaz/)  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fulviavaz&count_private=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulviavaz&layout=compact&theme=dracula)
 
 [tech_tools_anchor]: #bonjour--
 
