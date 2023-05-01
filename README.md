@@ -9,8 +9,6 @@ My name is Fúlvia Vaz. I am a  Front-End developer living in Brazil 🇧🇷
  <br>
  "In a world full of technology, those who don't learn to program will be programmed." - Attekita**
  
- Portifólio: https://fulviavaz.webflow.io/
-
 
 ## 🛠 Technologies and tools
 
