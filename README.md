@@ -21,16 +21,7 @@ My name is Fúlvia Vaz. I am a  Front-End developer living in Brazil 🇧🇷
 
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fulviavaz/) [![Foo](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fulviavaz) [![Foo](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fulviavaz)
 
-<table  align="left">
 
-<row>
-
-<td>
-
-<!-- Card -->
-
-<img  height='172'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=fulviavaz&layout=compact&theme=dark'></td><td><img  height='172'  src='https://github-readme-stats.vercel.app/api?username=fulviavaz&show_icons=true&theme=dark'>
-</td>
 
 </row>
 
